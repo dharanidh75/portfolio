@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import dharaniPhoto from "./assets/dharani.jpeg";
+import dharaniPhoto from "./assets/dharanidh.png";
 
 const ROLES = ["Full-Stack Developer", "Gen AI Enthusiast", "AI Engineer"];
 
